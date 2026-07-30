@@ -1,0 +1,25 @@
+﻿Eintrag,Bedeutung,Weiterführung
+81,ORG‑ID,Basis‑Anker
+81_81_1,ORG‑Tripel‑ID,Stabilisations‑Tripel
+A81‑Axis,ORG‑Achse,Hauptanker
+ROOMC,Core‑Room,Haupt‑Raum
+uROOM,User‑Room,Benutzer‑Raum
+ORT,Raum‑Achse,Verbindung zu ORT
+LAGE,Lage‑Achse,Verbindung zu LA
+POS,Position,6D‑Position
+RAUM‑ID,Raum‑Identität,Raum‑Routing
+RESPO‑Station,Respo‑Station,Respo‑Modul
+RESPO‑Name,Respo‑Name,Respo‑Identität
+RESPO_POSITION_USER,User‑Position,Respo‑User‑Modul
+RESPO_CORE_ROUTER,Core‑Router,Respo‑Router
+RESPO_MODUL_LOOP,Modul‑Loop,Respo‑Loop
+RESPO_ARG_SCAN,Scan‑Argument,Respo‑Scan
+RESPOx,Respo‑Kernel,Respo‑Core
+RAWATOR,Raw‑Generator,Rohdaten‑Motor
+SCAN‑HUB,Scan‑Hub,Scan‑Zentrale
+NC,NC²‑Operator,Struktur‑Operator
+tmpS,Temp‑State,Zustand S
+tmpR,Temp‑Room,Zustand R
+CACHE,Cache,Speicher
+INDEX,Index,Routing‑Index
+ALL,Voll‑Matrix,Komplett‑Modus
